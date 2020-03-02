@@ -6,5 +6,5 @@
 * [02 Navigating the Shell](02-Navigating-shell-notes.html)
 * [03 Files and folders](03-files-folders-shell-notes.html)
 * [04 Counting and mining](04-counting-mining-shell-notes.html)
-
-updated 2019
+* [05 Working with Free Text](https://librarycarpentry.org/lc-shell/06-free-text/index.html)
+updated 2020
